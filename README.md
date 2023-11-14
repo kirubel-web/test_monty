@@ -10,7 +10,7 @@ Each folder represents each task to check your source code. Copy your compiled C
 ```
 git clone https://github.com/kirubel-web/test_monty.git
 
-cd alx_test_suite/monty_project
+cd /test_monty
 ```
 
 - Copy the source file into the directory/task folder you want to test for in the monty_project directory
