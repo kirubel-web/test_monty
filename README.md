@@ -14,6 +14,8 @@ cd /test_monty
 ```
 
 - Copy the source file into the directory/task folder you want to test for in the monty_project directory
+
+- binary is 'monty'
 ```
 cp <path/to/monty/binary> task_XX/.
 ```
